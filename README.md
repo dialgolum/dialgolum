@@ -17,8 +17,8 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats ....***
-<p align="center"><img src="https://streak-stats.demolab.com?user=dilumhapugoda&locale=en&mode=daily&theme=ocean-gradient&hide_border=true&border_radius=5" height="160" alt="streak graph">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilumhapugoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean-gradient&locale=en&hide_border=true" height="160" alt="stats graph" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=dilumhapugoda&locale=en&mode=daily&theme=ocean-gradient&hide_border=true&border_radius=5" height="175" alt="streak graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilumhapugoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean-gradient&locale=en&hide_border=true" height="175" alt="stats graph" /></p>
 
 ---
 <p align="center">
