@@ -18,7 +18,7 @@
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats ....***
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***GitHub Stats ....***
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilumhapugoda&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" />
   <img src="https://streak-stats.demolab.com?user=dilumhapugoda&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph">
