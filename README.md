@@ -19,7 +19,7 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats ....***
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dilumhapugoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" height="170" alt="stats graph" /><img src="https://streak-stats.demolab.com?user=dilumhapugoda&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dilumhapugoda&theme=chartreuse-dark&show_icons=true&count_private=true" /><img src="https://streak-stats.demolab.com?user=dilumhapugoda&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph"></p>
 
 ---
 
