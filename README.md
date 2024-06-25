@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/dilum-hapugoda-91815030b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilum-hapugoda-91815030b" height="30" width="40" /></a>
 <a href="https://instagram.com/_dilum_susara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dilum_susara_" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25704027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25704027" height="30" width="40" /></a>
 </p>
 
 
