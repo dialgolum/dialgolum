@@ -20,8 +20,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100px">&nbsp;***GitHub Stats ....***
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilumhapugoda&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" />
-  <img src="https://streak-stats.demolab.com?user=dilumhapugoda&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=dialgolum&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" />
+  <img src="https://streak-stats.demolab.com?user=dialgolum&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilumhapugoda&&exclude_repo=dilumhapugoda&layout=compact&theme=dracula" alt="languages"/> -->
 </p>
 
