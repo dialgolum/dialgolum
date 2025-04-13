@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dialgolum&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" />
   <img src="https://streak-stats.demolab.com?user=dialgolum&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="170" alt="streak graph">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dialgolum&&exclude_repo=dilumhapugoda&layout=compact&theme=dracula" alt="languages"/> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dialgolum&&exclude_repo=dialgolum&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=5" alt="languages"/>
 </p>
 
 ---
