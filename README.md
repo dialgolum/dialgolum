@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I am currently an undergraduate student in SLIIT
+- 🌱 I am currently an undergraduate student at SLIIT
 
 - 📫 How to reach me **dilumhapugoda@gamil.com**
 
